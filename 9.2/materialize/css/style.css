@@ -1,0 +1,53 @@
+/*Common properties*/
+*{
+    font-family: Tahoma, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.img{
+    min-height: 150px;
+    width: 100%;
+}
+p{
+    display: block;
+    width: 100%;
+    margin: 0 0 20px;
+}
+/*Logo properties*/
+.logo{
+    min-height: 85px;
+}
+/*Properties of menu*/
+ul{
+    margin: 0;
+    padding: 0;
+}
+ul li{
+    display: inline-block;
+    height: 30px;
+    width: 13%;
+    margin: 3% 1px;
+    line-height: 28px;
+}
+.links li{
+    height: 15px;
+    line-height: 15px;
+    margin: 0;
+    width: 10%;
+    text-align: right;
+}
+ul .first-link{
+    margin-left: 90px;
+}
+.my-navigation{
+    height: 850px;
+    width: 100%;
+    text-align: center;
+}
+.first-item{
+    margin-left: 11px;
+}
+.last-item{
+    margin-right: 11px;
+}

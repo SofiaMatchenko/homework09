@@ -1,0 +1,20 @@
+/*Properties for height*/
+.input{
+    min-height: 190px;
+}
+.name .input:first-child{
+    min-height: 300px;
+}
+/*Border properties*/
+.bord{
+    padding: 20px 20px 1px;
+}
+/*Text properties*/
+h2, p{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+h2{
+    padding-top: 12%;
+}
